@@ -4,7 +4,7 @@ A modern and responsive web project built with HTML, SCSS, and JavaScript.
 
 ## 🚀 Description
 
-This project is a demonstration of a modern web development workflow. While it was initially based on a tutorial, it has been significantly modified with custom styles, a conversion to SCSS for more advanced styling, and the integration of AI-powered features. It features a clean and well-structured codebase.
+This project is a demonstration of a modern web development workflow. While it was initially based on a tutorial, it has been significantly modified with custom styles and a conversion to SCSS. AI was utilized as a tool during the development process to assist with coding and design. It features a clean and well-structured codebase.
 
 ## ✨ Features
 
@@ -27,7 +27,6 @@ This project is a demonstration of a modern web development workflow. While it w
 *   **HTML5**: For the structure of the web pages.
 *   **SCSS**: For advanced styling and CSS preprocessing.
 *   **JavaScript (ES6+)**: For client-side logic and interactivity.
-*   **AI Integration**: Incorporates AI-powered features to enhance functionality.
 
 ## ⚙️ Getting Started
 
@@ -68,7 +67,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 This project was inspired by and built with reference to a tutorial by [Traversy Media](https://www.youtube.com/c/TraversyMedia).
 The original tutorial can be found [here](https://www.youtube.com/watch?v=HXYZxVbWkjc).
 
-Significant modifications and additions have been made, including a transition to SCSS, additional styling, and the integration of AI-powered features.
+Significant modifications and additions have been made, including a transition to SCSS and additional styling. AI tools were used to assist in the creation of this project.
 
 ## 📄 License
 
